@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Oscar Gonzalez  🚵🏽‍♂️ 🏃🏽‍♂️ </h1>
-<h3 align="center">A backend development Jr.</h3>
+<h3 align="center">A backend development</h3>
 
 - 🔭 I’m currently working on **my resume, profile and try to get a job like developer. I'm very enthusiastic and I like learning more.**
 
-- 🌱 I’m currently learning **more aabout Spring Boot, Django, SQL, Oracle Cloud and more.**
+- 🌱 I’m currently learning **more aabout Spring Boot, SQL, Oracle Cloud and more.**
 
-- 📫 How to reach me **ogonbon@gmail.com**
+- 📫 Feel free to contact me anytime **oscar.gonzalez.bonilla@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/ogobo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogobo" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/oscar-gonzalez-bonilla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ogobo" height="30" width="40" /></a>
 
 </p>
 
